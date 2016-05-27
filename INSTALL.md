@@ -29,6 +29,11 @@ as well as the following Python packages:
 * codecov
 * sphinx
 
-If you like, you can use the following [requirements.txt](https://raw.githubusercontent.com/dib-lab/2016-pycon-tutorial/master/requirements.txt) and give it to pip like so:
+For the Python packages, you can install them all at once with:
+
+    pip install virtualenv pytest pytest-cov coverage codecov sphinx
+    
+or you can use [this requirements.txt](https://raw.githubusercontent.com/dib-lab/2016-pycon-tutorial/master/requirements.txt)
+and give it to pip like so:
 
     pip install -r requirements.txt

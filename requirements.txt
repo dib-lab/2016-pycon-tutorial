@@ -1,0 +1,6 @@
+virtualenv
+pytest
+pytest-cov
+coverage
+codecov
+sphinx
