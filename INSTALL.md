@@ -1,5 +1,8 @@
 # Installation and setup!
 
+Please set up the accounts and software below *before* the tutorial!
+Thanks!
+
 ## Accounts
 
 Please sign up for accounts at (and/or recover your passwords from :)
