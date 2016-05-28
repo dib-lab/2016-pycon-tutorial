@@ -1,4 +1,4 @@
-# Creating, Building, Testing, and Documenting a Python Project - A Hands-on HOWTO
+# Creating, Building, Testing, and Documenting a Python Project: A Hands-on HOWTO
 
 Saturday, May 28th, 1:20 P.M. - 4:40 P.M.
 
