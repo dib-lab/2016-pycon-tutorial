@@ -1,9 +1,6 @@
 # Creating, Building, Testing, and Documenting a Python Project: A Hands-on HOWTO
 
-Saturday, May 28th, 1:20 P.M. - 4:40 P.M.
-
-This is the organizing repository for our [PyCon 2016 tutorial](https://us.pycon.org/2016/schedule/presentation/1814/)
-
+*Saturday, May 28th, 1:20 P.M. - 4:40 P.M.*
 
 Authors/presenters, in alphabetical order / last name:
 
@@ -18,6 +15,8 @@ You can contact us on Twitter ([#pytutproj](https://twitter.com/search?f=tweets&
 ### Our Twitter hashtag: `#pytutproj`
 
 ## Links
+
+[PyCon 2016 tutorial](https://us.pycon.org/2016/schedule/presentation/1814/)
 
 [Etherpad for copy/pasting & questions](http://pad.software-carpentry.org/2016-pycon-projhost)
 
