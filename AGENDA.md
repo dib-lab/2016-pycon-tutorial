@@ -8,8 +8,4 @@
 
 ## 3:45pm [Posting your project to PyPI](https://github.com/dib-lab/2016-pycon-tutorial/issues/5)
 
-## Bonus material, maybe
-
-- Running things inside virtualenv
-- Code coverage analysis to decide what else to test
-- Writing tests for command line code (TODO)
+## [Additional Resources](https://github.com/dib-lab/2016-pycon-tutorial/issues/7)
