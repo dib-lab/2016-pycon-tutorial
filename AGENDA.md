@@ -1,12 +1,12 @@
-## [Introduction and overview](https://github.com/dib-lab/2016-pycon-tutorial/issues/2)
+## 1:20pm [Introduction and overview](https://github.com/dib-lab/2016-pycon-tutorial/issues/2)
 
-## [Continuous integration](https://github.com/dib-lab/2016-pycon-tutorial/issues/4)
+## 1:45pm [Continuous integration](https://github.com/dib-lab/2016-pycon-tutorial/issues/4)
 
-## [Documentation - Sphinx and ReadTheDocs](https://github.com/dib-lab/2016-pycon-tutorial/issues/3)
+## 3pm BREAK
 
-## [Posting your project to PyPI](...)
+## 3:20 [Documentation - Sphinx and ReadTheDocs](https://github.com/dib-lab/2016-pycon-tutorial/issues/3)
 
-- should this be first, to reserve name?
+## 3:45pm [Packing your project & posting on PyPI](...)
 
 ## Bonus material
 
