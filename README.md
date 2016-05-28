@@ -1,10 +1,9 @@
-# 2016-pycon-tutorial
-
-This is the organizing repository for our [PyCon 2016 tutorial](https://us.pycon.org/2016/schedule/presentation/1814/),
-
-## CREATING, BUILDING, TESTING, AND DOCUMENTING A PYTHON PROJECT - A HANDS-ON HOWTO
+# CREATING, BUILDING, TESTING, AND DOCUMENTING A PYTHON PROJECT - A HANDS-ON HOWTO
 
 Saturday, May 28th, 1:20 P.M. - 4:40 P.M.
+
+This is the organizing repository for our [PyCon 2016 tutorial](https://us.pycon.org/2016/schedule/presentation/1814/)
+
 
 Authors/presenters, in alphabetical order / last name:
 
