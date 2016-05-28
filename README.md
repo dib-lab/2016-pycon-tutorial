@@ -22,6 +22,8 @@ You can contact us on Twitter ([#pytutproj](https://twitter.com/search?f=tweets&
 
 [Etherpad for copy/pasting & questions](http://pad.software-carpentry.org/2016-pycon-projhost)
 
+[Feedback](http://tiny.cc/4dxoby)
+
 ## Resources:
 
 [Installation and Setup](https://github.com/dib-lab/2016-pycon-tutorial/blob/master/INSTALL.md)
