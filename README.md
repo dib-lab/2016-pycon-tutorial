@@ -25,3 +25,5 @@ You can contact us on Twitter ([#pytutproj](https://twitter.com/search?f=tweets&
 ## Resources:
 
 [Installation and Setup](https://github.com/dib-lab/2016-pycon-tutorial/blob/master/INSTALL.md)
+
+[Tutorial Agenda](https://github.com/dib-lab/2016-pycon-tutorial/blob/master/AGENDA.md)
